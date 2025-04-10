@@ -1,0 +1,5 @@
+// Link de passo a passo para criação de pipeline
+-> https://learn.microsoft.com/pt-br/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=javascript%2Cbrowser#prerequisites---azure-devops
+
+// Link de login no microsoft Azure Login maisa.castelhano@hotmail.com
+->https://portal.azure.com/#home
